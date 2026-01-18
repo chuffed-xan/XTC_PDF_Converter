@@ -6,9 +6,10 @@ Instructions:
   - Click "Convert to PDF" and wait for the pages to convert.
   - Wait a mintue for the file download to start after all pages are converted.
     
-  <img width="494" height="348" alt="Capture" src="https://github.com/user-attachments/assets/ddd0feac-c0ee-4dbf-9a06-968e4cd07dc7" />
+      <img width="494" height="348" alt="Capture" src="https://github.com/user-attachments/assets/ddd0feac-c0ee-4dbf-9a06-968e4cd07dc7" />
 
 Notes: 
+ 
 This is designed work in browser - I tested it in Firefox and Chrome on Windows and both worked well. You have to wait a minute for the download of the file after the converting is finished depending on the size of your book - please be patient.
 
 Thank you to Reddit users u/JetSerge and u/ImpossibleEase9120 for steering me towards this solution!
